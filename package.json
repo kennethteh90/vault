@@ -17,7 +17,7 @@
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "chai": "^4.1.2",
-    "chai-http": "^4.0.0",
+    "chai-http": "^5.1.2",
     "mocha": "^5.2.0"
   }
 }
